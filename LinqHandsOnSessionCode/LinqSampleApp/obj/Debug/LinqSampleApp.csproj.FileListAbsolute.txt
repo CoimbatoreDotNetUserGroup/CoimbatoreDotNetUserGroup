@@ -1,0 +1,6 @@
+c:\users\ashoka\documents\visual studio 2013\Projects\LinqSampleApp\LinqSampleApp\bin\Debug\LinqSampleApp.exe.config
+c:\users\ashoka\documents\visual studio 2013\Projects\LinqSampleApp\LinqSampleApp\bin\Debug\LinqSampleApp.exe
+c:\users\ashoka\documents\visual studio 2013\Projects\LinqSampleApp\LinqSampleApp\bin\Debug\LinqSampleApp.pdb
+c:\users\ashoka\documents\visual studio 2013\Projects\LinqSampleApp\LinqSampleApp\obj\Debug\LinqSampleApp.csprojResolveAssemblyReference.cache
+c:\users\ashoka\documents\visual studio 2013\Projects\LinqSampleApp\LinqSampleApp\obj\Debug\LinqSampleApp.exe
+c:\users\ashoka\documents\visual studio 2013\Projects\LinqSampleApp\LinqSampleApp\obj\Debug\LinqSampleApp.pdb
